@@ -1,6 +1,6 @@
 # Веб-проекты
-## deploy https://aba4you.netlify.app/
-# Links to deploy and Github
+https://aba4you.netlify.app/
+
 # For cooperation, please contact abay.reushenov@gmail.com
 <ol>
 <li>
